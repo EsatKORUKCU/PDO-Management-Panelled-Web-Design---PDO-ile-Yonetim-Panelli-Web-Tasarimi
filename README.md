@@ -1,2 +1,2 @@
-# PDO-LE-Y-NET-M-TABANLI-WEB-TASARIMI
+# PDO ile Yönetim Panelli Web tasarımı
 PHP-bootcamp-derslerden-yap-lan-al-malar-7
